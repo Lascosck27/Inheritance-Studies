@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\InheritanceStudies\obj\Debug\net7.0\InheritanceStudies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\InheritanceStudies\obj\Debug\net7.0\InheritanceStudies.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\InheritanceStudies\obj\Debug\net7.0\InheritanceStudies.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\InheritanceStudies\obj\Debug\net7.0\InheritanceStudies.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\InheritanceStudies\bin\Debug\net7.0\InheritanceStudies.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\InheritanceStudies\bin\Debug\net7.0\InheritanceStudies.deps.json
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\InheritanceStudies\bin\Debug\net7.0\InheritanceStudies.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\InheritanceStudies\bin\Debug\net7.0\InheritanceStudies.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\InheritanceStudies\bin\Debug\net7.0\InheritanceStudies.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\InheritanceStudies\obj\Debug\net7.0\InheritanceStudies.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\InheritanceStudies\obj\Debug\net7.0\refint\InheritanceStudies.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\InheritanceStudies\obj\Debug\net7.0\InheritanceStudies.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\InheritanceStudies\obj\Debug\net7.0\InheritanceStudies.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\InheritanceStudies\obj\Debug\net7.0\ref\InheritanceStudies.dll
