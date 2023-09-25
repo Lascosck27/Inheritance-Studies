@@ -6,18 +6,25 @@ using System.Threading.Tasks;
 
 namespace InheritanceStudies //estudando sobre heranças
 {
-    class Base
+    class Forma
     {
-        public Base()
+        public virtual void Desenhar()  //método Desenhar do tipo virtual (que pode ser substituído)
         {
-            Console.WriteLine("Construtor classe base");    //mostra quando o construtor da classe base é chamada
+            Console.WriteLine("Desenhar Base");    //Desenho base
         }
     }
-    class Derivada : Base
+    class Circulo : Forma   //diz que Circulo é derivada de Forma
     {
-        public Derivada()
+        public override void Desenhar() //substitui o Desenhar base
         {
-            Console.WriteLine("Construtor classe derivada");    //mostra quando o construtor da classe derivada é chamada
+            Console.WriteLine("Desenhar Círculo"); //desenho que substituiu a base
+        }
+    }
+    class Retangulo : Forma
+    {
+        public override void Desenhar()
+        {
+            Console.WriteLine("Desenhar Retângulo");
         }
     }
 }
