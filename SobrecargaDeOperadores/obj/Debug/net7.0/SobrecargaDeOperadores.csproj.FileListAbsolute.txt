@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\SobrecargaDeOperadores\bin\Debug\net7.0\SobrecargaDeOperadores.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\SobrecargaDeOperadores\bin\Debug\net7.0\SobrecargaDeOperadores.deps.json
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\SobrecargaDeOperadores\bin\Debug\net7.0\SobrecargaDeOperadores.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\SobrecargaDeOperadores\bin\Debug\net7.0\SobrecargaDeOperadores.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\SobrecargaDeOperadores\bin\Debug\net7.0\SobrecargaDeOperadores.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\SobrecargaDeOperadores\obj\Debug\net7.0\SobrecargaDeOperadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\SobrecargaDeOperadores\obj\Debug\net7.0\SobrecargaDeOperadores.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\SobrecargaDeOperadores\obj\Debug\net7.0\SobrecargaDeOperadores.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\SobrecargaDeOperadores\obj\Debug\net7.0\SobrecargaDeOperadores.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\SobrecargaDeOperadores\obj\Debug\net7.0\SobrecargaDeOperadores.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\SobrecargaDeOperadores\obj\Debug\net7.0\refint\SobrecargaDeOperadores.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\SobrecargaDeOperadores\obj\Debug\net7.0\SobrecargaDeOperadores.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\SobrecargaDeOperadores\obj\Debug\net7.0\SobrecargaDeOperadores.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\SobrecargaDeOperadores\obj\Debug\net7.0\ref\SobrecargaDeOperadores.dll
