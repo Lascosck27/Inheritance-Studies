@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\Treinos\obj\Debug\net7.0\Treinos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\Treinos\obj\Debug\net7.0\Treinos.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\Treinos\obj\Debug\net7.0\Treinos.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\Treinos\obj\Debug\net7.0\Treinos.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\Treinos\bin\Debug\net7.0\Treinos.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\Treinos\bin\Debug\net7.0\Treinos.deps.json
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\Treinos\bin\Debug\net7.0\Treinos.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\Treinos\bin\Debug\net7.0\Treinos.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\Treinos\bin\Debug\net7.0\Treinos.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\Treinos\obj\Debug\net7.0\Treinos.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\Treinos\obj\Debug\net7.0\refint\Treinos.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\Treinos\obj\Debug\net7.0\Treinos.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\Treinos\obj\Debug\net7.0\Treinos.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\Treinos\obj\Debug\net7.0\ref\Treinos.dll
