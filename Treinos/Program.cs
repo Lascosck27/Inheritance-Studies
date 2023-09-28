@@ -20,35 +20,17 @@
         Console.WriteLine("Número 1: " + numero1);
         Console.WriteLine("Número 2: " + numero2);
     }
-    public void PrintNegativos()
-    {
-        Console.WriteLine();
-        Console.WriteLine("Seus números com sinais invertidos:");   //tira o sinal se os dois numeros forem 0
-        Console.WriteLine("Número 1: " + Math.Abs(numero1));
-        Console.WriteLine("Número 2: " + Math.Abs(numero2));
-    }
     public static void Main(string[] args)
     {
-        Console.WriteLine("Digite um número: ");
+        Console.WriteLine("Digite um número: "); //solicita ao usuário o primeiro número
         int usernum1 = int.Parse(Console.ReadLine());
 
-        Console.WriteLine("Digite mais um número: ");
+        Console.WriteLine("Digite mais um número: ");   //solicita ao usuário o segundo número
         int usernum2 = int.Parse(Console.ReadLine());
 
-        Inverter troca = new Inverter(usernum1, usernum2);
-        troca = -troca;
-
-        if (usernum1 == 0 && usernum2 == 0) 
-        { 
-            troca.Print();
-        }
-        else if (usernum1 == 0 || usernum2 == 0)
-        {
-            troca.Print();
-        }
-        else
-        {
-            troca.Print();
-        }
+        Inverter troca = new Inverter(usernum1, usernum2);  //instanciação de um objeto Inverter
+        troca = -troca; //inversão de sinais
+        
+        troca.Print();  //mostra os numeros
     }
 }
