@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\Tratamento de Exceções\bin\Debug\net7.0\Tratamento de Exceções.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\Tratamento de Exceções\bin\Debug\net7.0\Tratamento de Exceções.deps.json
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\Tratamento de Exceções\bin\Debug\net7.0\Tratamento de Exceções.runtimeconfig.json
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\Tratamento de Exceções\bin\Debug\net7.0\Tratamento de Exceções.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\Tratamento de Exceções\bin\Debug\net7.0\Tratamento de Exceções.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\Tratamento de Exceções\obj\Debug\net7.0\Tratamento de Exceções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\Tratamento de Exceções\obj\Debug\net7.0\Tratamento de Exceções.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\Tratamento de Exceções\obj\Debug\net7.0\Tratamento de Exceções.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\Tratamento de Exceções\obj\Debug\net7.0\Tratamento de Exceções.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\Tratamento de Exceções\obj\Debug\net7.0\Tratamento de Exceções.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\Tratamento de Exceções\obj\Debug\net7.0\refint\Tratamento de Exceções.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\Tratamento de Exceções\obj\Debug\net7.0\Tratamento de Exceções.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\Tratamento de Exceções\obj\Debug\net7.0\Tratamento de Exceções.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\Inheritance-studies\Tratamento de Exceções\obj\Debug\net7.0\ref\Tratamento de Exceções.dll

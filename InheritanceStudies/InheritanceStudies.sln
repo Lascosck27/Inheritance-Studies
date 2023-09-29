@@ -5,9 +5,11 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InheritanceStudies", "InheritanceStudies.csproj", "{9CC97EA3-724C-486F-A053-9E07465129CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SobrecargaDeOperadoresUnarios", "..\SobrecargaDeOperadores\SobrecargaDeOperadoresUnarios.csproj", "{FE85DAD6-6740-4084-8723-04451EE8DCD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SobrecargaDeOperadoresUnarios", "..\SobrecargaDeOperadores\SobrecargaDeOperadoresUnarios.csproj", "{FE85DAD6-6740-4084-8723-04451EE8DCD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Treinos", "..\Treinos\Treinos.csproj", "{6DCD1AAB-E910-4437-ABAE-9EB00ECC9B79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Treinos", "..\Treinos\Treinos.csproj", "{6DCD1AAB-E910-4437-ABAE-9EB00ECC9B79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tratamento de Exceções", "..\Tratamento de Exceções\Tratamento de Exceções.csproj", "{AC6CF205-1426-4EAC-9C93-D2DEC5446134}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{6DCD1AAB-E910-4437-ABAE-9EB00ECC9B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DCD1AAB-E910-4437-ABAE-9EB00ECC9B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DCD1AAB-E910-4437-ABAE-9EB00ECC9B79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC6CF205-1426-4EAC-9C93-D2DEC5446134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC6CF205-1426-4EAC-9C93-D2DEC5446134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC6CF205-1426-4EAC-9C93-D2DEC5446134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC6CF205-1426-4EAC-9C93-D2DEC5446134}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
